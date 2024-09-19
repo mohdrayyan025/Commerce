@@ -6,7 +6,7 @@
 
 | HOMESCREEN | DASHBOARD | PROFILE |
 |------------|-----------|---------|
-| ![HOMESCREEN](https://i.ibb.co/3NNQWkt/Screenshot-2024-08-09-at-12-46-05-AM.png) | ![DASHBOARD](https://i.ibb.co/gT0HKfb/Screenshot-2024-08-09-at-12-45-55-AM.png) | ![PROFILE](https://i.ibb.co/KrPTHKv/Screenshot-2024-08-09-at-12-53-33-AM.png) |
+| ![HOMESCREEN](https://i.ibb.co/3NNQWkt/Screenshot-2024-08-09-at-12-46-05-AM.png) | ![DASHBOARD](https://i.ibb.co/gT0HKfb/Screenshot-2024-08-09-at-12-45-55-AM.png) | ![PROFILE](https://ibb.co/khr7rxH) |
 | CATEGORY | HELP_LIBRARY | PAYMENT |
 | ![CATEGORY](https://i.ibb.co/ryyP5gL/Screenshot-2024-08-09-at-12-52-14-AM.png) | ![HELP_LIBRARY](https://i.ibb.co/Z2wktpy/Screenshot-2024-08-09-at-12-52-41-AM.png) | ![PAYMENT](https://i.ibb.co/gvg87bK/Screenshot-2024-08-09-at-12-50-42-AM.png) |
 | CREDITCARD | MESSAGING | RECENTLY_VIEWED |
